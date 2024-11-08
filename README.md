@@ -60,9 +60,6 @@ I'm on a path to mastering the basics and beyond! Here’s what I’m focusing o
 
 ### 🤔 Fun Facts About Me
 
-- **Learning style**: I learn by breaking things and putting them back together!
-- **Favorite tool**: Google! It’s my best friend for debugging and inspiration.
-- **Code snack**: 🍫 Chocolate boosts my code!
-- **Motto**: "Every pro was once an amateur."
+- **Learning style**: I learn by breaking things and putting them back together!    
 
 > "Programming isn’t about what you know; it’s about what you can figure out." - Chris Pine
