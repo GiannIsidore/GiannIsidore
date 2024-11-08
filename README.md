@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋! I'm Giann</h1>
-<p align="left">Welcome to my GitHub profile! I’m a passionate developer with a focus on JavaScript, Python, and C#. Let’s build something awesome!</p>
+<p align="left">Welcome to my GitHub profile! I’m a newbie developer...🤙</p>
 
 ---
 
@@ -9,6 +9,15 @@
   <!-- Gif Animation -->
   <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRzbG1ramVzdHh2b3RrNjRreG4xZGwyaXBnNXA2ZGd6dW82cGV3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T5nP7Nwu5FzMc/giphy.gif" height="180" alt="coding gif" />
 </div>
+
+---
+
+### 🌱 Currently Learning
+I'm on a path to mastering the basics and beyond! Here’s what I’m focusing on right now:
+- **JavaScript**: Building interactive web pages
+- **Python**: Scripting, automation, and maybe some data science in the future
+- **C#**: Exploring backend development possibilities
+- **React**: Adding more to my front-end toolbox
 
 ---
 
@@ -23,6 +32,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
 </div>
+
+---
+
+### 💻 Projects
+
+Here’s what I’m working on or planning to start soon:
+- **Beginner JavaScript Projects**: Exploring dynamic websites and simple games.
+- **Python Scripts**: Automating boring tasks and making things easier!
+- **Portfolio Website**: Coming soon to showcase my work.
+- **Mini Games**: Trying out game development basics for fun.
 
 ---
 
@@ -49,6 +68,11 @@
 
 ---
 
-### 🚀 Fun Fact
+### 🤔 Fun Facts About Me
 
-> "Code is like humor. When you have to explain it, it’s bad." - Cory House
+- **Learning style**: I learn by breaking things and putting them back together!
+- **Favorite tool**: Google! It’s my best friend for debugging and inspiration.
+- **Code snack**: 🍫 Chocolate boosts my code!
+- **Motto**: "Every pro was once an amateur."
+
+> "Programming isn’t about what you know; it’s about what you can figure out." - Chris Pine
