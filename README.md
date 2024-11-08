@@ -35,16 +35,6 @@ I'm on a path to mastering the basics and beyond! Here’s what I’m focusing o
 
 ---
 
-### 💻 Projects
-
-Here’s what I’m working on or planning to start soon:
-- **Beginner JavaScript Projects**: Exploring dynamic websites and simple games.
-- **Python Scripts**: Automating boring tasks and making things easier!
-- **Portfolio Website**: Coming soon to showcase my work.
-- **Mini Games**: Trying out game development basics for fun.
-
----
-
 ### 📫 Connect with Me
 
 <div align="left">
