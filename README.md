@@ -1,9 +1,6 @@
 <h1 align="left">Hi 👋! I'm Giann</h1>
 <p align="left">Welcome to my GitHub profile! I’m a newbie developer...🤙</p>
 
----
-
-
 
 ---
 
