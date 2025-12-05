@@ -7,8 +7,7 @@
 ### 🌱 Currently Learning
 I'm on a path to mastering the basics and beyond! Here’s what I’m focusing on right now:
 - **JavaScript**: Building interactive web pages
-- **Python**: Scripting, automation, and maybe some data science in the future
-- **C#**: Exploring backend development possibilities
+- **Python**: Backend, Scripting, automation, and maybe some data science in the future
 - **React**: Adding more to my front-end toolbox
 
 ---
