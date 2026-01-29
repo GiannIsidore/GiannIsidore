@@ -1,56 +1,22 @@
-<h1 align="left">Hi 👋! I'm Giann</h1>
-<p align="left">Welcome to my GitHub profile! I’m a newbie developer...🤙</p>
+# yo, I'm Giann 👋
 
+Newbie developer exploring the world of code. Learning by building, breaking, and rebuilding.
 
----
+## 🛠 Tech Stack
 
-### 🌱 Currently Learning
-I'm on a path to mastering the basics and beyond! Here’s what I’m focusing on right now:
-- **JavaScript**: Building interactive web pages
-- **Python**: Backend, Scripting, automation, and maybe some data science in the future
-- **React**: Adding more to my front-end toolbox
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 
----
+## 📫 Connect
 
-### 🛠 Tech Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
-</div>
+[![Discord](https://img.shields.io/badge/-isi__dro_-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/isi_dro_)
+[![Email](https://img.shields.io/badge/-giannesidore@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:giannesidore@gmail.com)
 
 ---
 
-### 📫 Connect with Me
+![Contribution Snake](https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg)
 
-<div align="left">
-  <a href="https://discord.com/users/isi_dro_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
-  </a>
-  <a href="mailto:giannesidore@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-</div>
-
----
-
-### 🐍 GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
----
-
-### 🤔 Fun Facts About Me
-
-- **Learning style**: I learn by breaking things and putting them back together!    
-
-> "Programming isn’t about what you know; it’s about what you can figure out." - Chris Pine
+> "Programming nia."
