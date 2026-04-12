@@ -1,6 +1,6 @@
 # yo, I'm Giann 👋
 
-Newbie developer exploring the world of code. Learning by building, breaking, and rebuilding.
+Junior developer exploring the world of code. Learning by building, breaking, and rebuilding.
 
 ## About Me
 
@@ -9,7 +9,7 @@ Newbie developer exploring the world of code. Learning by building, breaking, an
 // Giann.dis
 const me = {
   name: "Giann",
-  level: "Newbie Developer",
+  level: "Junior Developer",
   currentFocus: ["JavaScript", "React", "Python"],
   approach: "Hands-on learning through projects",
   goal: "Build → Break → Learn → Repeat"
