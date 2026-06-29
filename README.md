@@ -1,4 +1,4 @@
-# yo, I'm Giann 👋
+# Hello, I'm Giann 👋
 
 Junior developer exploring the world of code. Learning by building, breaking, and rebuilding.
 
